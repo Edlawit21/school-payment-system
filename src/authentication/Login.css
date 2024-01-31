@@ -1,0 +1,51 @@
+
+.login-page{
+    background: #f1eef5;
+    width: 100vw;
+    height: 100vh;
+    font-family:'Times New Roman', Times, serif;
+ }
+.center{
+    width: 350px;
+    height: 340px;
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 10px;
+}
+.login-h1{
+    text-align: center;
+    padding: 50px 0 10px 0 ;
+    border-bottom: 1px solid rgb(103, 96, 96);
+    margin-bottom: 30px;
+}
+.input-user{
+    margin-bottom: 1.5em;
+}
+
+.txt_field {
+    float: right;
+    border: 1px solid rgb(103, 96, 96);
+    border-radius: 2px;
+    padding: 2px;
+    
+}
+.login-btn{
+    background-color: rgb(46, 24, 92);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer; 
+    margin-top: 40px;
+    font-size: large;
+}
+
+ 
+ .year{
+    padding-top: 6em;
+    padding-left: 29em;
+ }
